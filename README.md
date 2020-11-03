@@ -14,19 +14,26 @@ Meetings: on Tuesdays between 4:30 to 7:00 PM. Online: Blackboard Collaborate
 
 # Assignments
 
+__Midterm Project__
+
 [Midterm Project: Due to Week-7: October 18th by 11:59PM](https://github.com/mguner/UMBC_DATA602/blob/master/assignments/Data602-Project-1.ipynb)
 
 [Google Form for Midterm Project - Submission](https://forms.gle/ZgNbV4KdJFSdVrj8A)
 
-[The detailed rubric for Project-1](https://docs.google.com/spreadsheets/d/1DE1_TZSwszK5DJDkAcnGllLH8iOtuqfvuVxOu0fZCdE/edit?usp=sharing)
+[The detailed rubric for Midterm Project](https://docs.google.com/spreadsheets/d/1DE1_TZSwszK5DJDkAcnGllLH8iOtuqfvuVxOu0fZCdE/edit?usp=sharing)
 
-[Homework-2: Due to Week-10: November 3rd by 4:30PM](https://github.com/mguner/UMBC_DATA602/blob/master/assignments/Data602%20-%20Second%20Homework.ipynb)
+------
 
-Details will be announced.
+__Homework 2__
 
-Homework-3: Due to Week-13: November 24th by 4:30PM
+[Homework-2: Due to Week-11: November 15th by 11:59PM](https://github.com/mguner/UMBC_DATA602/blob/master/assignments/Data602%20-%20Second%20Homework.ipynb)
 
-Details will be announced.
+[Google Form Submission Link](https://forms.gle/trvrXd2ZrynJW7EX6)
+
+
+[Rubric for the homework](https://docs.google.com/spreadsheets/d/1p8WVW1Zr95a6-lNn7bDJ8Hp06PclfLzmkkVdKlmhjWY/edit?usp=sharing)
+
+-----
 
 Final Project: Due to Week-15: December 8th by 4:30PM
 
